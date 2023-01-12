@@ -9,9 +9,9 @@
   "overrideAuth": false,
 
   "mysqlHost": "localhost",
-  "mysqlPort": 8890,
-  "mysqlUser": "root",
-  "mysqlPassword": "root",
+  "mysqlPort": 3306,
+  "mysqlUser": "game",
+  "mysqlPassword": "gkgk^^12",
   "mysqlDatabase": "wtfadventure",
 
   "debugLevel": "info",
@@ -21,7 +21,7 @@
   "gver": 3,
   "updateTime": 200,
 
-  "secretKey": "INSERT_BASE_62_KEY_HERE",
+  "secretKey": "c4eiNetwork##isPonGoing!o",
 
   "forceCollisions": false
 }
